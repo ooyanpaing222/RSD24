@@ -9,7 +9,6 @@ Weekly source code update for **Rockstar Developer Course** 2024. This week, we'
 ```javascript
 function add(a, b) {
     return a + b;
-}
 ```
 
 * _React_
